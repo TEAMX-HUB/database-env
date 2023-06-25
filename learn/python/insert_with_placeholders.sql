@@ -1,0 +1,1 @@
+insert into lang (name, appeared) values (:lang_name, :created);
